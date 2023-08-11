@@ -1,0 +1,2 @@
+# Julia
+Julia programlama dili 
