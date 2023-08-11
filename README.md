@@ -8,8 +8,9 @@ Jupyter Notebook'ta Julia progrmalama dilini çalıştırmak için aşağıdaki 
 
 Julia consolunda aşağıdaki kodu çalıştırınız: 
 
-using Pkg
-Pkg.add("IJulia") 
+julia> using Pkg
+
+julia> Pkg.add("IJulia") 
 
 yükleme tamamlandığında Jupyter Notebook üzerinden Julia dilinde çalışabilirsiniz. 
 
